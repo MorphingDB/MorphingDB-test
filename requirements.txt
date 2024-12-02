@@ -1,0 +1,13 @@
+datasets==3.0.1
+evadb==0.3.9
+matplotlib==3.9.2
+numpy==2.0.2
+pandas==2.2.3
+Pillow==11.0.0
+psycopg2_binary==2.9.9
+scikit_learn==1.5.2
+sentencepiece==0.2.0
+torch==2.4.1
+torchvision==0.19.1
+transformers==4.45.2
+opencv-python==4.10.0.84
